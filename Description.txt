@@ -1,0 +1,47 @@
+### IN VERY EARLY ALPHA -- MAY BE UNSTABLE AND BE DIFFERENT TO FUTURE RELEASES.
+Minecraft, but ever-so-slightly more difficult and easy at the same time.
+
+With added crunch.
+
+and nails.
+
+## CREATED BY LALEAEMPIRE
+## UPLOADED BY NOOBLIKESTHIS
+
+### Q/A
+
+-------------------------------------
+Q: Will this be ported to newer versions?
+
+A: Not by us but forks may have newer versions.
+
+-------------------------------------
+
+
+Q: is this finished?
+
+A: nah.
+
+-------------------------------------
+
+Q: I don't like programmer art!
+
+A: Turn it off in resource packs -- im not forcing anyone :)
+
+-------------------------------------
+
+Q: Support for shaders?
+
+A: Some shaders might not work, but i have not bothered to check.
+
+-------------------------------------
+
+Q: Game extremely laggy with shaders
+
+A: Not my fault you added shaders.
+
+-------------------------------------
+
+Q: Will animation resource packs work properly?
+
+A: Most likely not, as i checked.
